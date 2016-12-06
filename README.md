@@ -22,6 +22,6 @@ apm install vin-dark-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/vin](http://www.protesilaos.com/vin)
+Project page: [https://protesilaos.com/vin](https://protesilaos.com/vin)
 
 Vin light version: [https://atom.io/themes/vin-syntax](https://atom.io/themes/vin-syntax)
